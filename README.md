@@ -82,7 +82,7 @@ npx expo start
 This project was built with collaboration and hard work by:
 
 Muskan Irfan (muskancodebase)
-Amina Asghar (emma460emma460)
+Amna Asghar (amna-asghar)
 Muhammad Umer (SilverUmer21)
 Muhammad Ahmad (AhmydBajwa)
 
